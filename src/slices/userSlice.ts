@@ -9,7 +9,8 @@ interface UserState {
 
 // Define the initial state using that type
 const initialState: UserState = {
-  value: '',
+  value: '', // Production
+  // value: 'a16934ebfce082ef5023c17ac14ab0c9958ce0a424763786c6126cae6759b0d2', // Development
 };
 
 // User Slice
