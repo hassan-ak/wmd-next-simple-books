@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className='flex flex-col max-w-[960px] mx-auto items-center md:flex-row space-y-8 md:space-y-0'>
       <div className='px-4 xs:px-16'>
-        <h1 className='text-3xl font-bold'>Book Store</h1>
+        <h1 className='text-3xl font-bold'>Simple Books</h1>
         <p>Find your next great read with us.</p>
         <p className='text-justify mt-5'>
           Welcome to our online store! We&#39;re thrilled to have you here. Our
